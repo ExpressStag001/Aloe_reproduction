@@ -66,9 +66,9 @@ Datasets CLEVRER, which is converted into LMDB format and can be used off-the-sh
 # Pre-trained 
 The pre-trained model weights, training logs (random seeds 42) and pre-generated slots  are available as [releases]().
 
-- [archive-savi]() : **Pre-trained SAVI** on CLEVRER. The SAVI model is responsible for **extracting slot** features from images or videos which will be used in downstream VQA tasks.
-- [archive-aloe]() : **Pre-trained ALOE** on CLEVRER. The ALOE model **predicts VQA answers** using upstream‑extracted slots.
-- [slotz]() : **Pre-generated slot features** extracted from CLEVRER videos using the pre-trained SAVI model we provide.
+- [archive-savi](https://github.com/ExpressStag001/Aloe_reproduction/releases/tag/archive-savi) : **Pre-trained SAVI** on CLEVRER. The SAVI model is responsible for **extracting slot** features from images or videos which will be used in downstream VQA tasks.
+- [archive-aloe](https://github.com/ExpressStag001/Aloe_reproduction/releases/tag/archive-aloe) : **Pre-trained ALOE** on CLEVRER. The ALOE model **predicts VQA answers** using upstream‑extracted slots.
+- [SLOT-savi-clevrer_video](https://github.com/ExpressStag001/Aloe_reproduction/releases/tag/SLOT-savi-clevrer_video) : **Pre-generated slot features** extracted from CLEVRER videos using the pre-trained SAVI model we provid with the `savi-clevrer_video` config.
 
 <br>
 <br>
