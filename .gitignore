@@ -1,0 +1,20 @@
+# model checkpoints (upload to releases separately)
+*.pth
+
+# datasets (upload to releases separately)
+datasets/
+
+# training archives (upload to releases separately)
+archive-savi/
+archive-aloe/
+
+# claude code
+.claude/
+
+# python
+__pycache__/
+*.pyc
+
+# ide
+.idea/
+.vscode/
